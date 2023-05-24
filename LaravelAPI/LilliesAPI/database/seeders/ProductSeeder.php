@@ -26,7 +26,6 @@ class ProductSeeder extends Seeder
                 'rating' => $faker->numberBetween(1,5),
                 'image' => $faker->imageUrl(width: 50 , height: 50)
             ]);
-
         }
 
     }

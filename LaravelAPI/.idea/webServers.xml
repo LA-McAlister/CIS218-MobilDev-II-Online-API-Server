@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1382004c-2f50-4c90-8a58-0837f8d7f9e4" name="testapi.mslamac.com" url="http://testapi.mslamac.com">
+        <fileTransfer rootFolder="/home/dh_75zj59/testapi.mslamac.com" accessType="SFTP" host="testapi.mslamac.com" port="22" sshConfigId="85d68b4a-6fd1-45c7-89d4-1349bb8e3639" sshConfig="dh_75zj59@testapi.mslamac.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

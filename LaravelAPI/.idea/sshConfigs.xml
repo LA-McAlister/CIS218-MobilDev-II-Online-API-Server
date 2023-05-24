@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="testapi.mslamac.com" id="85d68b4a-6fd1-45c7-89d4-1349bb8e3639" port="22" nameFormat="DESCRIPTIVE" username="dh_75zj59" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
